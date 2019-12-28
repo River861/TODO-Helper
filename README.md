@@ -36,23 +36,23 @@
 
 * * 启动时后台开始加载神经网络模型，需要一定时间
 
-    <img src="/home/river/桌面/TODO-Helper/Report/输出结果/UI输出1.png" style="zoom: 55%;" />
+    <img src="./输出结果/UI输出1.png" style="zoom: 55%;" />
 
   * 用户从输入框中输入任务安排语句
 
-    <img src="/home/river/桌面/TODO-Helper/Report/输出结果/UI输出2.png" style="zoom:55%;" />
+    <img src="./输出结果/UI输出2.png" style="zoom:55%;" />
 
   * 程序解析语句并展示提取的任务时间信息、更新日历
 
-    <img src="/home/river/桌面/TODO-Helper/Report/输出结果/UI输出3.png" style="zoom:55%;" />
+    <img src="./输出结果/UI输出3.png" style="zoom:55%;" />
 
   * 用户可以连续输入多段任务安排，任务安排将在日历上累加；用户点击日历上的相应日期可以查看当前的待办任务
 
-    <img src="/home/river/桌面/TODO-Helper/Report/输出结果/UI输出4.png" style="zoom:55%;" />
+    <img src="./输出结果/UI输出4.png" style="zoom:55%;" />
 
   * 用户可勾选已完成的任务，已完成的任务将在列表中消失，然后交互界面将产生任务已完成的信息
 
-    <img src="/home/river/桌面/TODO-Helper/Report/输出结果/UI输出5.png" style="zoom:55%;" />
+    <img src="./输出结果/UI输出5.png" style="zoom:55%;" />
 
     
 
